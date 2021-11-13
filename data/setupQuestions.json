@@ -1,6 +1,6 @@
 [
     {
-        "textValue": "I want questions from...",
+        "textValue": "Chce pytania z...",
         "answers":
         [
             {
@@ -8,42 +8,42 @@
                 "game": "PMD1"
             },
             {
-                "textValue": "Pokémon Mystery Dungeon: Explorers of Time/Darkness.",
+                "textValue": "Pokémon Mystery Dungeon: Explorers of Time/Darkness (jeszcze nie przetlumaczone).",
                 "game": "PMD2:TD"
             },
             {
-                "textValue": "Pokémon Mystery Dungeon: Explorers of Sky.",
+                "textValue": "Pokémon Mystery Dungeon: Explorers of Sky (jeszcze nie przetlumaczone).",
                 "game": "PMD2:S"
             },
             {
-                "textValue": "All of Pokémon Mystery Dungeon: Explorers. (Time/Darkness/Sky)",
+                "textValue": "Gier z Pokémon Mystery Dungeon: Explorers. (Time/Darkness/Sky) (jeszcze nie przetlumaczone)",
                 "game": "PMD2"
             },
             {
-                "textValue": "EVERYTHING! (Rescue Team and Explorers)",
+                "textValue": "WSZYSTKIEGO! (Rescue Team i Explorers) (nie wszysto przetlumaczone)",
                 "game": "PMD1+PMD2"
             }
         ]
     },
 
     {
-        "textValue": "How much time do you have?",
+        "textValue": "Ile masz czasu? (Werdykt dokladniejszy jesli wiecej pytan)",
         "answers":
         [
             {
-                "textValue": "I don't have much time. Give me the original short quiz. (%s questions)",
+                "textValue": "Nie mam za duzo czasu. Daj mi oryginalny krotki quiz (%s pytan)",
                 "lengthValue": 8
             },
             {
-                "textValue": "I have a little time. Give me a moderate-length quiz. (%s questions)",
+                "textValue": "Mam troszke czasu. Daj mi sredniej dlugosci quiz (%s pytan)",
                 "lengthValue": 19
             },
             {
-                "textValue": "I've got some time. Give me a longer quiz. (%s questions)",
+                "textValue": "Mam sporo czasu. Daj mi dluzszy quiz. (%s pytan)",
                 "lengthValue": 39
             },
             {
-                "textValue": "I've got plenty of time. Give me ALL the questions! (%s questions)",
+                "textValue": "Mam mase czasu. Daj mi WSZYSTKIE pytania! (%s pytan)",
                 "lengthValue": "all"
             }
         ]

@@ -9,15 +9,15 @@ var navButtons = document.querySelector('.nav-buttons');
 
 var previousButton = document.createElement('button');
 previousButton.id = 'previous';
-previousButton.innerHTML = '<span class="arrow">◄</span>Prev';
+previousButton.innerHTML = '<span class="arrow">◄</span>Poprzednia';
 
 var nextButton = document.createElement('button');
 nextButton.id = 'next';
-nextButton.innerHTML = 'Next<span class="arrow">►</span>';
+nextButton.innerHTML = 'Nastepna<span class="arrow">►</span>';
 
 var restartButton = document.createElement('button');
 restartButton.id = 'restart';
-restartButton.textContent = 'Restart';
+restartButton.textContent = 'Od nowa';
 
 var upButton = document.createElement('button');
 upButton.id = 'up';

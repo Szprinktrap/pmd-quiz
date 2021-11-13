@@ -86,7 +86,7 @@ window.onload = function() {
             return undefined;
         }
 
-        var confirmation = "You're in the middle of taking the quiz! Your progress will be lost if you leave.";
+        var confirmation = "Jestes w srodku wykonywania quizu! Postep zostanie utracony jesli wyjdziesz.";
         (e || window.event).returnValue = confirmation; // Gecko + IE
         return confirmation; // Gecko + Webkit, Safari, Chrome etc.
     });
@@ -117,7 +117,7 @@ var restartQuiz = function() {
 restartButton.addEventListener('click', function(e) {
     var confirmed = true;
     if(takingQuiz) {
-        confirmed = myConfirm("Are you sure you want to restart? Your progress will not be saved.");
+        confirmed = myConfirm("Czy na pewno chcesz zrestartowac? Twoj postep zostanie utracony.");
     }
 
     if(confirmed) {
@@ -158,7 +158,7 @@ upButton.addEventListener('click', function(e) {
 
 // Set up the presenters
 var performSetup = function() {
-    var initialSettingsBlurb = 'First, some settings...';
+    var initialSettingsBlurb = 'Najpierw, kilka ustawien...';
 
     gameSelector.clearQuestions();
     gameSelector.progressString = () => initialSettingsBlurb;
@@ -250,7 +250,7 @@ var performSetup = function() {
     genderSelector.clearQuestions();
     genderSelector.addQuestionList(finalQuestions);
     mainPresenter.finalize = function() {
-        var loadingString = 'Calculating results. Please wait...';
+        var loadingString = 'Obliczanie rezultatow, prosze czekac...';
         descriptionPresenter.presentQuestion(loadingString);
 
         genderSelector.responses = mainPresenter.spliceResponses(mainPresenter.questions.length - finalQuestions.length);
@@ -307,10 +307,10 @@ var performSetup = function() {
 
         // Set the border color based on the gender choice
         switch(genderSelector.responses[0].textValue) {
-            case 'Male.':
+            case 'Male':
                 setGender('male');
                 break;
-            case 'Female.':
+            case 'Female':
                 setGender('female');
                 break;
         }
@@ -367,15 +367,15 @@ var performSetup = function() {
         var genderChoice;
         var possibleGenders = [];
         switch(genderSelector.responses[0].textValue) {
-            case 'Male.':
+            case 'Chlopiec':
                 genderChoice = 'Male';
                 possibleGenders = ['Male'];
                 break;
-            case 'Female.':
+            case 'Dziewczyna':
                 genderChoice = 'Female';
                 possibleGenders = ['Female'];
                 break;
-            case 'Neither.':
+            case 'Obojetne/zadne z powyzszych':
                 possibleGenders = ['Male', 'Female'];
                 genderChoice = randomArrayElement(possibleGenders);
                 break;
@@ -437,7 +437,7 @@ var performSetup = function() {
         var pointsTable = document.createElement('table');
 
         var tableTitle = document.createElement('caption');
-        tableTitle.textContent = 'Detailed Points Breakdown';
+        tableTitle.textContent = 'Rozpiska punktow';
         pointsTable.appendChild(tableTitle);
 
         for(let n = 0; n < natureScoreList.length; n++) {
@@ -448,7 +448,7 @@ var performSetup = function() {
 
             let pointsCol = document.createElement('td');
             let natureScore = scoresByGame.all[natureScoreList[n].nature];
-            pointsCol.textContent = natureScore.userPoints + '/' + natureScore.totalPoints + ' points possible';
+            pointsCol.textContent = natureScore.userPoints + '/' + natureScore.totalPoints + ' punktow do zdobycia';
             if(pointsCol.textContent[0] === '1') {
                 pointsCol.style.paddingLeft = '0.9em';  // Hard coded correction for the space in front of "1" in the Wonder Mail font 
             }
