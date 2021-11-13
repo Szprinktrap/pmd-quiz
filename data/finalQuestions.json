@@ -1,11 +1,11 @@
 [
     {
-        "textValue": "Are you male or female?",
+        "textValue": "Jestes chlopcem czy dziewczyna?",
         "answers":
         [
-            { "textValue": "Male." },
-            { "textValue": "Female." },
-            { "textValue": "Neither." }
+            { "textValue": "Chlopiec" },
+            { "textValue": "Dziewczyna" },
+            { "textValue": "Obojetne/zadne z powyzszych" }
         ]
     }
 ]

@@ -1,24 +1,24 @@
 [
     {
-        "textValue": "A test is coming up. How do you study for it?",
+        "textValue": "Zbliza sie test. Jak sie na niego uczysz?",
         "answers":
         [
             {
-                "textValue": "Study hard.",
+                "textValue": "Ciezko pracuje.",
                 "points":
                 {
                     "Hardy": 2
                 }
             },
             {
-                "textValue": "At the last second.",
+                "textValue": "Na ostatnia chwile.",
                 "points":
                 {
                     "Relaxed": 2
                 }
             },
             {
-                "textValue": "Ignore it and play.",
+                "textValue": "Mam go gdzies i sie bawie.",
                 "points":
                 {
                     "Impish": 2
@@ -27,11 +27,11 @@
         ]
     },
     {
-        "textValue": "Can you focus on something you like?",
+        "textValue": "Czy potrafisz sie skupic na rzeczach ktore lubisz?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Hardy": 2,
@@ -39,7 +39,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Quirky": 2
@@ -48,11 +48,11 @@
         ]
     },
     {
-        "textValue": "When the going gets tough, do you get going?",
+        "textValue": "Kiedy robi sie ciezko, idziesz dalej?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Hardy": 2,
@@ -60,7 +60,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Sassy": 2,
@@ -70,25 +70,25 @@
         ]
     },
     {
-        "textValue": "There is a bucket. If you put water in it, how high will you fill it?",
+        "textValue": "Masz wiaderko. Jesli wlejesz do niego wode, jak je zapelnisz?",
         "answers":
         [
             {
-                "textValue": "Full.",
+                "textValue": "Do pelna.",
                 "points":
                 {
                     "Hardy": 2
                 }
             },
             {
-                "textValue": "Half.",
+                "textValue": "Do polowy.",
                 "points":
                 {
                     "Calm": 2
                 }
             },
             {
-                "textValue": "A little.",
+                "textValue": "Troche.",
                 "points":
                 {
                     "Quirky": 2
@@ -98,11 +98,11 @@
     },
 
     {
-        "textValue": "You are offered a choice of two gifts. Which one will you take?",
+        "textValue": "Zaoferowano ci dwa prezenty. Ktore pudelko wezmiesz?",
         "answers":
         [
             {
-                "textValue": "Big box.",
+                "textValue": "Duze.",
                 "points":
                 {
                     "Docile": 2,
@@ -110,7 +110,7 @@
                 }
             },
             {
-                "textValue": "Small box.",
+                "textValue": "Male.",
                 "points":
                 {
                     "Timid": 2,
@@ -120,11 +120,11 @@
         ]
     },
     {
-        "textValue": "You broke a rotten egg in your room! What will you do?",
+        "textValue": "Stlulxs zgnile jajko w swoim pokoju! Co robisz?",
         "answers":
         [
             {
-                "textValue": "Open a window right away.",
+                "textValue": "Od razu otwieram okno.",
                 "points":
                 {
                     "Docile": 2,
@@ -132,7 +132,7 @@
                 }
             },
             {
-                "textValue": "Take a sniff first.",
+                "textValue": "Najpierw sie nim zaciagam.",
                 "points":
                 {
                     "Naive": 2,
@@ -142,18 +142,18 @@
         ]
     },
     {
-        "textValue": "A friend brought over something you'd forgotten. How do you thank your friend?",
+        "textValue": "Znajomy oddaje ci cos czego zapomnialxs. Jak mu podziekujesz?",
         "answers":
         [
             {
-                "textValue": "Say thank you regularly.",
+                "textValue": "Normalnie powiem dziekuje.",
                 "points":
                 {
                     "Docile": 2
                 }
             },
             {
-                "textValue": "Say thanks with a joke.",
+                "textValue": "Podziekuje przy okazji zartujac.",
                 "points":
                 {
                     "Naive": 1,
@@ -161,7 +161,7 @@
                 }
             },
             {
-                "textValue": "Say thanks, but be cool.",
+                "textValue": "Powiem dziekuje, ale bedac cool.",
                 "points":
                 {
                     "Sassy": 2
@@ -170,11 +170,11 @@
         ]
     },
     {
-        "textValue": "There is a wallet at the side of the road.",
+        "textValue": "Znajdujesz portfel na srodku drogi.",
         "answers":
         [
             {
-                "textValue": "Turn it in to the police!",
+                "textValue": "Ide z nim na policje!",
                 "points":
                 {
                     "Docile": 2
@@ -188,7 +188,7 @@
                 }
             },
             {
-                "textValue": "Is anyone watching...?",
+                "textValue": "Czy ktos sie patrzy...?",
                 "points":
                 {
                     "Impish": 2
@@ -198,11 +198,11 @@
     },
 
     {
-        "textValue": "You're going bungee jumping for the first time. Since it's scary, you decide to test the jump with a doll... And the bungee cord snaps! Will you still try to make a jump anyway?",
+        "textValue": "Idziesz skakac na bungee. Poniewaz jest to straszne, testujesz bungee na lalce... I sie urywa! Czy sprobujesz skoczyc mimo wszystko?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Brave": 3,
@@ -210,7 +210,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Docile": 2,
@@ -220,18 +220,18 @@
         ]
     },
     {
-        "textValue": "There is an alien invasion! What will you do?",
+        "textValue": "Zaczal sie atak kosmitow! Co robisz?",
         "answers":
         [
             {
-                "textValue": "Fight.",
+                "textValue": "Walcze.",
                 "subQuestion":
                 {
-                    "textValue": "You valiantly fight the aliens... But, you are defeated... An alien says to you... \"YOU HAVE IMPRESSED US. IT WAS A PLEASURE TO SEE. JOIN US, AND TOGETHER WE SHALL RULE THE WORLD.\" What will you do?",
+                    "textValue": "Dzielnie walczysz z kosmitami... Ale cie pokonuja... Kosmita mowi do ciebie... \"ZASKOCZYLXS NAS. MILO SIE OGLADALO TWOJA WALKE. DOLACZ DO NAS, I BEDZIEMY WSPOLNIE RZADZIC TYM SWIATEM\" Co robisz?",
                     "answers":
                     [
                         {
-                            "textValue": "Rule with the aliens.",
+                            "textValue": "Przylaczam sie do kosmitow.",
                             "points":
                             {
                                 "Sassy": 1,
@@ -239,7 +239,7 @@
                             }
                         },
                         {
-                            "textValue": "Refuse.",
+                            "textValue": "Odmawiam.",
                             "points":
                             {
                                 "Brave": 4
@@ -250,14 +250,14 @@
                 "points": {}
             },
             {
-                "textValue": "Run.",
+                "textValue": "Uciekam.",
                 "points":
                 {
                     "Timid": 2
                 }
             },
             {
-                "textValue": "Ignore it.",
+                "textValue": "Mam to gdzies.",
                 "points":
                 {
                     "Relaxed": 2
@@ -266,11 +266,11 @@
         ]
     },
     {
-        "textValue": "There is a scream from behind a door! How will you react?",
+        "textValue": "Slyszysz krzyk zza drzwi! Jak reagujesz?",
         "answers":
         [
             {
-                "textValue": "Yank open the door.",
+                "textValue": "Gwaltownie otwieram drzwi.",
                 "points":
                 {
                     "Hardy": 1,
@@ -278,7 +278,7 @@
                 }
             },
             {
-                "textValue": "Scream in unison.",
+                "textValue": "Rowniez krzycze",
                 "points":
                 {
                     "Naive": 2
@@ -287,18 +287,18 @@
         ]
     },
     {
-        "textValue": "A delinquent is hassling a girl on a busy city street! What will you do?",
+        "textValue": "Dresiarz dokucza dziewczynie w zatloczonym miescie! Co robisz?",
         "answers":
         [
             {
-                "textValue": "Help without hesitation.",
+                "textValue": "Pomagam bez zastanowienia.",
                 "points":
                 {
                     "Brave": 3
                 }
             },
             {
-                "textValue": "Help, even if scared.",
+                "textValue": "Pomagam, nawet przestraszonx.",
                 "points":
                 {
                     "Hardy": 2,
@@ -306,7 +306,7 @@
                 }
             },
             {
-                "textValue": "Call the police.",
+                "textValue": "Wzywam policje.",
                 "points":
                 {
                     "Docile": 1,
@@ -315,7 +315,7 @@
                 }
             },
             {
-                "textValue": "Do nothing out of fear.",
+                "textValue": "Ze strachu nie robie nic.",
                 "points":
                 {
                     "Timid": 2
@@ -325,11 +325,11 @@
     },
 
     {
-        "textValue": "Are you a cheerful personality?",
+        "textValue": "Czy jestes z reguly wesola osoba?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Jolly": 2,
@@ -337,7 +337,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Sassy": 1,
@@ -347,11 +347,11 @@
         ]
     },
     {
-        "textValue": "Do you like to noisily enjoy yourself with others?",
+        "textValue": "Czy lubisz byc najglosniejsza osoba bawiac sie z innymi?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Jolly": 2,
@@ -359,7 +359,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Timid": 1
@@ -368,25 +368,25 @@
         ]
     },
     {
-        "textValue": "It's the summer holidays! Where would you like to go?",
+        "textValue": "Nadeszly wakacje! Gdzie chcesz sie udac?",
         "answers":
         [
             {
-                "textValue": "The beach!",
+                "textValue": "Na plaze!",
                 "points":
                 {
                     "Jolly": 2
                 }
             },
             {
-                "textValue": "Spas.",
+                "textValue": "Spa.",
                 "points":
                 {
                     "Calm": 2
                 }
             },
             {
-                "textValue": "Anywhere.",
+                "textValue": "Gdziekolwiek.",
                 "points":
                 {
                     "Quirky": 2
@@ -395,25 +395,25 @@
         ]
     },
     {
-        "textValue": "A foreign person has started up a conversation with you. To be honest, you don't have a clue what this fellow is saying. How do you reply?",
+        "textValue": "Nieznajoma osoba zaczela konwersacje z toba. Jesli masz byc szczerx, nie wiesz co ta osoba do ciebie mowi. Jak odpowiesz?",
         "answers":
         [
             {
-                "textValue": "Haha! Yes. Very funny!",
+                "textValue": "Haha! Tak, bardzo zabawne.",
                 "points":
                 {
                     "Jolly": 3
                 }
             },
             {
-                "textValue": "Um... Could you say that again?",
+                "textValue": "Um... Czy mozesz powtorzyc?",
                 "points":
                 {
                     "Hardy": 2
                 }
             },
             {
-                "textValue": "Right... Well, I gotta go.",
+                "textValue": "Tak... Coz, musze isc.",
                 "points":
                 {
                     "Timid": 2
@@ -423,11 +423,11 @@
     },
 
     {
-        "textValue": "Have you ever made a pitfall trap?",
+        "textValue": "Czy kiedykolwiek zastawilxs pulapke?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Impish": 2,
@@ -435,7 +435,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Calm": 2
@@ -444,18 +444,18 @@
         ]
     },
     {
-        "textValue": "Do you like pranks?",
+        "textValue": "Czy lubisz psikusy?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Impish": 2
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Docile": 1,
@@ -465,11 +465,11 @@
         ]
     },
     {
-        "textValue": "Are there many things that you would like to do?",
+        "textValue": "Czy jest duzo rzeczy ktore chcesz robic?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Hardy": 1,
@@ -477,7 +477,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Sassy": 1,
@@ -487,25 +487,25 @@
         ]
     },
     {
-        "textValue": "Your friend is being bullied! What do you do?",
+        "textValue": "Twojemu przyjacielowi dokuczaja! Co robisz?",
         "answers":
         [
             {
-                "textValue": "Face up to the bully.",
+                "textValue": "Stawiam sie lobuzowi.",
                 "points":
                 {
                     "Brave": 3
                 }
             },
             {
-                "textValue": "Caution the bully from afar.",
+                "textValue": "Z daleka groze lobuzowi.",
                 "points":
                 {
                     "Timid": 2
                 }
             },
             {
-                "textValue": "Heckle the bully from behind.",
+                "textValue": "Biore lobuza od tylu.",
                 "points":
                 {
                     "Impish": 2
@@ -515,11 +515,11 @@
     },
 
     {
-        "textValue": "Do you like groan-inducing puns?",
+        "textValue": "Czy lubisz oblesne zarty?",
         "answers":
         [
             {
-                "textValue": "Love them!",
+                "textValue": "Uwielbiam!",
                 "points":
                 {
                     "Impish": 1,
@@ -527,14 +527,14 @@
                 }
             },
             {
-                "textValue": "A little.",
+                "textValue": "Troche/zalezy.",
                 "points":
                 {
                     "Jolly": 2
                 }
             },
             {
-                "textValue": "Spare me.",
+                "textValue": "Oszczedzcie mnie.",
                 "points":
                 {
                     "Sassy": 2
@@ -543,11 +543,11 @@
         ]
     },
     {
-        "textValue": "Do you tend to laugh a lot?",
+        "textValue": "Czy duzo sie smiejesz?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Docile": 1,
@@ -555,7 +555,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Quirky": 2
@@ -564,11 +564,11 @@
         ]
     },
     {
-        "textValue": "Do others often call you childish?",
+        "textValue": "Czy ludzie czesto nazywaja cie/uwazasz sie za osobe dziecinna?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Jolly": 1,
@@ -576,7 +576,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Calm": 2
@@ -585,18 +585,18 @@
         ]
     },
     {
-        "textValue": "Do you like to imagine things for your amusement?",
+        "textValue": "Czy lubisz wyobrazac sobie rozne rzeczy dla zabawy?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Naive": 2
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Hasty": 2
@@ -606,18 +606,18 @@
     },
 
     {
-        "textValue": "A human hand extends out of a toilet! What would you do?",
+        "textValue": "Z sedesu wystaje ludzka dlon! Co robisz?",
         "answers":
         [
             {
-                "textValue": "Scream and run.",
+                "textValue": "Krzycze i uciekam.",
                 "points":
                 {
                     "Timid": 2
                 }
             },
             {
-                "textValue": "Close the lid without a word.",
+                "textValue": "Zamykam klape bez slowa.",
                 "points":
                 {
                     "Hardy": 1,
@@ -625,7 +625,7 @@
                 }
             },
             {
-                "textValue": "Shake hands with it.",
+                "textValue": "Podaje jej reke.",
                 "points":
                 {
                     "Brave": 2,
@@ -636,39 +636,39 @@
         ]
     },
     {
-        "textValue": "Grab any digit on your left hand with your right hand. Which digit did you grab?",
+        "textValue": "Zlap dowolny palec na swojej lewej rece prawa reka. Ktory palec zlapalxs?",
         "answers":
         [
             {
-                "textValue": "Thumb.",
+                "textValue": "Kciuk.",
                 "points":
                 {
                     "Timid": 2
                 }
             },
             {
-                "textValue": "Index finger.",
+                "textValue": "Wskazujacy.",
                 "points":
                 {
                     "Hasty": 2
                 }
             },
             {
-                "textValue": "Middle finger.",
+                "textValue": "Srodkowy.",
                 "points":
                 {
                     "Jolly": 2
                 }
             },
             {
-                "textValue": "Ring finger.",
+                "textValue": "Serdeczny.",
                 "points":
                 {
                     "Sassy": 2
                 }
             },
             {
-                "textValue": "Little finger.",
+                "textValue": "Maly.",
                 "points":
                 {
                     "Lonely": 2
@@ -677,25 +677,25 @@
         ]
     },
     {
-        "textValue": "You are suddenly locked inside a pitch-black room! What do you do?",
+        "textValue": "Nagle znajdujesz sie zamknietx w calkowicie ciemnym pokoju! Co robisz?",
         "answers":
         [
             {
-                "textValue": "Kick the door.",
+                "textValue": "Uderzam w drzwi.",
                 "points":
                 {
                     "Timid": 2
                 }
             },
             {
-                "textValue": "Cry.",
+                "textValue": "Placze.",
                 "points":
                 {
                     "Lonely": 2
                 }
             },
             {
-                "textValue": "Clean it.",
+                "textValue": "Sprzatam go.",
                 "points":
                 {
                     "Impish": 2,
@@ -705,25 +705,25 @@
         ]
     },
     {
-        "textValue": "Can you go into a haunted house?",
+        "textValue": "Czy mozesz wejsc do nawiedzonego domu?",
         "answers":
         [
             {
-                "textValue": "No problem!",
+                "textValue": "Bez problemu!",
                 "points":
                 {
                     "Brave": 3
                 }
             },
             {
-                "textValue": "Uh... N-no...",
+                "textValue": "Uh... N-nie...",
                 "points":
                 {
                     "Timid": 2
                 }
             },
             {
-                "textValue": "With someone I like.",
+                "textValue": "Z kims kogo lubie.",
                 "points":
                 {
                     "Sassy": 2
@@ -733,25 +733,25 @@
     },
 
     {
-        "textValue": "You receive a gift! But you don't know what's in it. You're curious, so what do you do?",
+        "textValue": "Dostajesz prezent! Ale nie masz pojecia co w nim jest. Jestes ciekawx, wiec co robisz?",
         "answers":
         [
             {
-                "textValue": "Open it now.",
+                "textValue": "Otwieram go teraz.",
                 "points":
                 {
                     "Hasty": 2
                 }
             },
             {
-                "textValue": "Open it later.",
+                "textValue": "Otwieram go pozniej.",
                 "points":
                 {
                     "Calm": 2
                 }
             },
             {
-                "textValue": "Get someone to open it.",
+                "textValue": "Kaze go otworzyc komus innemu.",
                 "points":
                 {
                     "Timid": 2
@@ -760,11 +760,11 @@
         ]
     },
     {
-        "textValue": "You win a lottery! What do you do with the money?",
+        "textValue": "Wygrywasz loterie! Co robisz z pieniedzmi?",
         "answers":
         [
             {
-                "textValue": "Spend it now.",
+                "textValue": "Wydaje je od razu.",
                 "points":
                 {
                     "Jolly": 2,
@@ -772,7 +772,7 @@
                 }
             },
             {
-                "textValue": "Save it.",
+                "textValue": "Przechowuje je.",
                 "points":
                 {
                     "Hardy": 1,
@@ -780,7 +780,7 @@
                 }
             },
             {
-                "textValue": "Give it away.",
+                "textValue": "Rozdaje je innym.",
                 "points":
                 {
                     "Brave": 2,
@@ -790,25 +790,25 @@
         ]
     },
     {
-        "textValue": "You come across a treasure chest! What do you do?",
+        "textValue": "Znajdujesz skrzynke ze skarbami! Co robisz?",
         "answers":
         [
             {
-                "textValue": "Open it right away!",
+                "textValue": "Otwieram ja od razu!",
                 "points":
                 {
                     "Hasty": 2
                 }
             },
             {
-                "textValue": "No... Could be a trap...",
+                "textValue": "Nie... To moze byc pulapka...",
                 "points":
                 {
                     "Timid": 2
                 }
             },
             {
-                "textValue": "It's going to be empty...",
+                "textValue": "Po prostu bedzie pusta...",
                 "points":
                 {
                     "Sassy": 2
@@ -817,11 +817,11 @@
         ]
     },
     {
-        "textValue": "Your friend fails to show up for a meeting at the promised time. What do you do?",
+        "textValue": "Twoj znajomy spoznia sie na spotkanie o okreslonej godzinie! Co robisz?",
         "answers":
         [
             {
-                "textValue": "Become irritated.",
+                "textValue": "Irytuje sie.",
                 "points":
                 {
                     "Docile": 1,
@@ -829,14 +829,14 @@
                 }
             },
             {
-                "textValue": "Wait patiently.",
+                "textValue": "Czekam cierpliwie.",
                 "points":
                 {
                     "Relaxed": 2
                 }
             },
             {
-                "textValue": "Get angry and bail.",
+                "textValue": "Zloszcze sie i wyzywam.",
                 "points":
                 {
                     "Hasty": 3
@@ -846,25 +846,25 @@
     },
 
     {
-        "textValue": "Your country's leader is in front of you. How do you speak to him or her?",
+        "textValue": "Przywodca twojego kraju rozmawia z toba. Jak bedziesz z nim rozmawiac?",
         "answers":
         [
             {
-                "textValue": "Speak calmly.",
+                "textValue": "Mowie spokojnie.",
                 "points":
                 {
                     "Hardy": 2
                 }
             },
             {
-                "textValue": "Speak nervously.",
+                "textValue": "Mowie nerwowo.",
                 "points":
                 {
                     "Docile": 2
                 }
             },
             {
-                "textValue": "WHATEVER!!",
+                "textValue": "NIEWAZNE!!",
                 "points":
                 {
                     "Sassy": 2
@@ -873,11 +873,11 @@
         ]
     },
     {
-        "textValue": "Do others tell you to watch what you say?",
+        "textValue": "Czy inni mowia ci bys uwazalx na slowa?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Impish": 1,
@@ -885,7 +885,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Calm": 2
@@ -894,18 +894,18 @@
         ]
     },
     {
-        "textValue": "Do you think you are cool? Be honest.",
+        "textValue": "Czy uwazasz ze jestes cool? Badz szczerx.",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Sassy": 2
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Relaxed": 2
@@ -914,11 +914,11 @@
         ]
     },
     {
-        "textValue": "Can you sincerely thank someone when you feel grateful?",
+        "textValue": "Czy potrafisz komus szczerze podziekowac gdy jestes bardzo wdziecznx?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Docile": 2,
@@ -926,7 +926,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Sassy": 2,
@@ -937,11 +937,11 @@
     },
 
     {
-        "textValue": "Do you occasionally consider yourself dull and overly cautious?",
+        "textValue": "Czy czasem uwazasz sie za osobe nudna i/lub przesadnie ostrozna?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Calm": 2,
@@ -949,7 +949,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Hardy": 2
@@ -958,18 +958,18 @@
         ]
     },
     {
-        "textValue": "Do you dream of lounging around idly without much excitement?",
+        "textValue": "Czy marzysz o bezczynnym wylegiwaniu sie bez wiekszych przygod itd.?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Calm": 2
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Impish": 2
@@ -978,11 +978,11 @@
         ]
     },
     {
-        "textValue": "Do you like to fight?",
+        "textValue": "Czy lubisz walczyc/klocic sie?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Impish": 1,
@@ -990,7 +990,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Calm": 2,
@@ -1000,11 +1000,11 @@
         ]
     },
     {
-        "textValue": "Do you often yawn?",
+        "textValue": "Czy czesto ziewasz?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Calm": 2,
@@ -1012,7 +1012,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Hardy": 1,
@@ -1023,11 +1023,11 @@
     },
 
     {
-        "textValue": "Are you often late for school or meetings?",
+        "textValue": "Czy czesto spozniasz sie do szkoly lub na spotkania?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Sassy": 1,
@@ -1035,7 +1035,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Hardy": 2,
@@ -1045,18 +1045,18 @@
         ]
     },
     {
-        "textValue": "Do you get the feeling that you've slowed down lately?",
+        "textValue": "Czy ostatnimi dniami odnosisz wrazenie ze zwolnilxs?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Relaxed": 2
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Impish": 1,
@@ -1066,25 +1066,25 @@
         ]
     },
     {
-        "textValue": "It is a pleasant day at the beach. How do you feel?",
+        "textValue": "Jest piekny dzien na plazy. Jak sie czujesz?",
         "answers":
         [
             {
-                "textValue": "This feels great!",
+                "textValue": "Jest w pyte!",
                 "points":
                 {
                     "Jolly": 2
                 }
             },
             {
-                "textValue": "Snore...",
+                "textValue": "Chrap...",
                 "points":
                 {
                     "Relaxed": 2
                 }
             },
             {
-                "textValue": "I want to go home soon!",
+                "textValue": "Chce juz do domu!",
                 "points":
                 {
                     "Hasty": 2
@@ -1093,11 +1093,11 @@
         ]
     },
     {
-        "textValue": "Do you fall asleep without noticing?",
+        "textValue": "Czy czasem zasypiasz ot tak?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Calm": 1,
@@ -1105,7 +1105,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Hardy": 2
@@ -1115,11 +1115,11 @@
     },
 
     {
-        "textValue": "Do you feel lonesome when you are alone?",
+        "textValue": "Czy odczuwasz samotnosc bedac samemu?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Timid": 1,
@@ -1127,7 +1127,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Sassy": 2
@@ -1136,11 +1136,11 @@
         ]
     },
     {
-        "textValue": "Do you hate to be the last person to leave class at the end of a school day?",
+        "textValue": "Czy nie lubisz byc ostatnia osoba opuszczajaca klase w szkole?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Timid": 1,
@@ -1148,7 +1148,7 @@
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Brave": 3,
@@ -1158,11 +1158,11 @@
         ]
     },
     {
-        "textValue": "What do you do with your room's light when you're going to bed at night?",
+        "textValue": "Co robisz z swiatlem w swoim pokoju gdy idziesz spac?",
         "answers":
         [
             {
-                "textValue": "Leave it on.",
+                "textValue": "Zostawiam wlaczone.",
                 "points":
                 {
                     "Timid": 1,
@@ -1170,7 +1170,7 @@
                 }
             },
             {
-                "textValue": "Turn it off.",
+                "textValue": "Wylaczam je.",
                 "points":
                 {
                     "Calm": 2
@@ -1179,11 +1179,11 @@
         ]
     },
     {
-        "textValue": "It's a weekend, but no one will play with you... What do you do?",
+        "textValue": "Jest weekend, ale nikt nie chce nic z toba robic. Co robisz?",
         "answers":
         [
             {
-                "textValue": "Go on a trip.",
+                "textValue": "Ide na wycieczke.",
                 "points":
                 {
                     "Jolly": 1,
@@ -1191,7 +1191,7 @@
                 }
             },
             {
-                "textValue": "Hang around vacantly.",
+                "textValue": "Kraze w kolko bezczynnie.",
                 "points":
                 {
                     "Calm": 1,
@@ -1199,7 +1199,7 @@
                 }
             },
             {
-                "textValue": "Huddle in a corner.",
+                "textValue": "Siedze w kacie.",
                 "points":
                 {
                     "Timid": 1,
@@ -1210,18 +1210,18 @@
     },
 
     {
-        "textValue": "Do you sometimes run out of things to do all of a sudden?",
+        "textValue": "Czy czasami ot tak brakuje ci rzeczy do roboty?",
         "answers":
         [
             {
-                "textValue": "Yes.",
+                "textValue": "Tak.",
                 "points":
                 {
                     "Quirky": 2
                 }
             },
             {
-                "textValue": "No.",
+                "textValue": "Nie.",
                 "points":
                 {
                     "Hardy": 2
@@ -1230,11 +1230,11 @@
         ]
     },
     {
-        "textValue": "How quickly do you respond to an e-mail?",
+        "textValue": "Jak szybko odpowiadasz na e-maile?",
         "answers":
         [
             {
-                "textValue": "Reply right away.",
+                "textValue": "Od razu.",
                 "points":
                 {
                     "Hardy": 1,
@@ -1242,14 +1242,14 @@
                 }
             },
             {
-                "textValue": "May reply, may not.",
+                "textValue": "Moze odpowiem, moze nie.",
                 "points":
                 {
                     "Quirky": 2
                 }
             },
             {
-                "textValue": "Too much trouble.",
+                "textValue": "Za duzo wysilku.",
                 "points":
                 {
                     "Sassy": 2
@@ -1258,11 +1258,11 @@
         ]
     },
     {
-        "textValue": "There is a person you like... But there's no opportunity to get close. What do you do?",
+        "textValue": "Widzisz osobe ktora ci sie podoba... Ale nie ma okazji by sie do siebie zblizyc. Co robisz?",
         "answers":
         [
             {
-                "textValue": "Bravely declare my love.",
+                "textValue": "Odwaznie oznajmiam jej swoja milosc.",
                 "points":
                 {
                     "Hardy": 1,
@@ -1270,21 +1270,21 @@
                 }
             },
             {
-                "textValue": "Might say hello...",
+                "textValue": "Moze sie przywitam...",
                 "points":
                 {
                     "Quirky": 2
                 }
             },
             {
-                "textValue": "Pull a prank to get attention.",
+                "textValue": "Robie psikusa by zdobyc uwage.",
                 "points":
                 {
                     "Impish": 2
                 }
             },
             {
-                "textValue": "Look from afar.",
+                "textValue": "Spogladam na nia z daleka.",
                 "points":
                 {
                     "Timid": 2
@@ -1293,25 +1293,25 @@
         ]
     },
     {
-        "textValue": "The road forks to the right and left. You are told there is a treasure on the right side. What do you do?",
+        "textValue": "Na drodze masz dwa kierunki - lewo i prawo. Ktos mowi ci, ze po prawej jest skarb. Co robisz?",
         "answers":
         [
             {
-                "textValue": "Instantly go right.",
+                "textValue": "Od razu zmierzam w prawo.",
                 "points":
                 {
                     "Docile": 2
                 }
             },
             {
-                "textValue": "It's a trap! Go left.",
+                "textValue": "To pulapka! Ide w lewo.",
                 "points":
                 {
                     "Sassy": 2
                 }
             },
             {
-                "textValue": "Choose either side.",
+                "textValue": "Ide w ktorymkolwiek kierunku.",
                 "points":
                 {
                     "Quirky": 2
@@ -1321,11 +1321,11 @@
     },
 
     {
-        "textValue": "On vacation outings, you want to...",
+        "textValue": "Na wakacyjnych wycieczkach, chcesz...",
         "answers":
         [
             {
-                "textValue": "Go alone.",
+                "textValue": "Isc samemu.",
                 "points":
                 {
                     "Hasty": 1,
@@ -1333,7 +1333,7 @@
                 }
             },
             {
-                "textValue": "Go with others.",
+                "textValue": "Isc z innymi.",
                 "points":
                 {
                     "Jolly": 1,
@@ -1343,18 +1343,18 @@
         ]
     },
     {
-        "textValue": "It's the summer festival! Do you like carnivals?",
+        "textValue": "Jest wakacyjny festiwal! Lubisz karnawaly?",
         "answers":
         [
             {
-                "textValue": "Love them!",
+                "textValue": "Uwielbiam je!",
                 "points":
                 {
                     "Jolly": 2
                 }
             },
             {
-                "textValue": "Don't care.",
+                "textValue": "Mam je gdzies.",
                 "points":
                 {
                     "Sassy": 1,
@@ -1364,11 +1364,11 @@
         ]
     },
     {
-        "textValue": "Somebody calls you \"weird but funny.\" How does that make you feel?",
+        "textValue": "Ktos nazywa cie \"dziwnym ale zabawnym.\" Jak sie z tym czujesz?",
         "answers":
         [
             {
-                "textValue": "Happy!",
+                "textValue": "Swietnie!",
                 "points":
                 {
                     "Naive": 1,
@@ -1376,7 +1376,7 @@
                 }
             },
             {
-                "textValue": "Not happy.",
+                "textValue": "Slabo.",
                 "points":
                 {
                     "Hasty": 1,
